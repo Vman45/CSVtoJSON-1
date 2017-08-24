@@ -43,6 +43,6 @@ rl.on('close', function() {
 		fs.writeFileSync('../outputdata/GDP1.json', jsonData, 'utf8');
 });
 console.log("CSV to Json Converted");
-   return 'JSON written successfully';
+   //return 'JSON written successfully';
 };
 module.exports = convert;
