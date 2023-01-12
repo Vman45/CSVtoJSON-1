@@ -12,7 +12,7 @@
     "eslint": "^3.14.1",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
-    "log4js": "^1.0.1",
+    "log4js": "^1.1.1",
     "sinon": "^1.17.7"
   },
   "devDependencies": {
@@ -27,7 +27,7 @@
     "eslint-plugin-react": "^6.4.1",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
-    "gulp-mocha": "^3.0.1",
-    "mocha": "^3.1.2"
+    "gulp-mocha": "^8.0.0",
+    "mocha": "^10.2.0"
   }
 }
